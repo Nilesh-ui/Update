@@ -5,6 +5,6 @@
   "subtitle": "✨ New Version Release ✨",
   "whatsnew": "• Improved app performance\n• Fixed major bugs\n• Enhanced security layers\n• Polished UI with smooth animations ",
   "btn_update": "Update Now",
-  "btn_exit": "skip",
+  "btn_skip": "skip",
   "link": "https://t.me/EpicModsChannel"
 }
