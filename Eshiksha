@@ -1,10 +1,9 @@
 {
-  "credit": "MR. NoOB",
-  "show_dialog": true,
-  "title": "🚀 Update Available",
-  "subtitle": "✨ New Version Release ✨",
-  "whatsnew": "• Improved app performance",
-  "btn_update": "Update Now",
-  "btn_exit": "Exit",
-  "link": "https://t.me/EpicModsChannel"
+  "showDialog": true,
+  "latestVersionCode": 2,
+  "latestVersionName": "1.1",
+  "title": "UPDATE AVAILABLE",
+  "message": "Get the newest features and improvements.",
+  "UpdateButtonText": "DOWNLOAD",
+  "UpdateButtonUrl": "https://t.me/EpicModsChannel"
 }
